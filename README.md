@@ -1,1 +1,1 @@
-This repository contains small programs intended to simplify some (common) jobs.
+Small scripts and programs that simplify some (common) jobs.
